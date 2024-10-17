@@ -1,0 +1,8 @@
+emnist
+numpy
+matplotlib 
+scikit-learn
+Keras
+Pillow
+opencv-python
+tensorflow
